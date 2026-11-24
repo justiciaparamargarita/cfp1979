@@ -11,7 +11,7 @@ Denuncia por correo electrónico ante la Cámara del fuero federal, el 14/06/202
 - 2022-06-21 [Mail «CFP 1979/2022 - CONEXION A ZOOM (MMG)» · yo → jncrimcorrfed5.sec9@pjn.gov.ar](2022/06/21/hilo-cfp-1979-2022-conexion-a-zoom-mmg.e1165.md)
 - 2022-06-21 [Mail «CFP 1979/2022» · jncrimcorrfed5.sec9@pjn.gov.ar → yo (5 mensajes)](2022/06/21/hilo-cfp-1979-2022.e1117.md)
 - 2022-08-01 [Mail «1979/2022» · jncrimcorrfed5.sec9@pjn.gov.ar → yo](2022/08/01/1979-2022.e1252.md)
-- 2022-08-01 [1979 22](2022/08/01/1979-22.e1251.md)
+- 2022-08-01 [Mail «1979/2022» · yo → jncrimcorrfed5.sec9@pjn.gov.ar](2022/08/01/1979-22.e1251.md)
 - 2022-08-01 [1979 22](2022/08/01/1979-22.e1252.md)
 - 2026-10-29 [Mail «Asunto: CFP 1979/2022 - Consulta de estado procesal y manifestación de hechos nuevos (cadena de custodia y confirmación de faltantes)» · yo → jncrimcorrfed5.sec9@pjn.gov.ar](2026/10/29/asunto-cfp-1979-2022-consulta-de-estado.e1184.md)
 - 2026-11-10 [Mail «CFP 1979/2022 — consulta de estado y aporte de prueba» · yo → jncrimcorrfed5.sec9@pjn.gov.ar](2026/11/10/cfp-1979-2022-consulta-de-estado-y-aport.e1250.md)
