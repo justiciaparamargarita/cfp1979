@@ -2208,10 +2208,10 @@ las victimas, como el CENAVID.
 Inﬁltrado UIT Sur
 
 88
-[foto: pruebas/2022/01/18/20220118_152010.md]
+[foto: mpf00654300/2022/01/18/20220118_152010.md]
 89
-[foto: pruebas/2022/01/18/20220118_152018.md]
-[foto: pruebas/2022/01/18/20220118_152036.md]
+[foto: mpf00654300/2022/01/18/20220118_152018.md]
+[foto: mpf00654300/2022/01/18/20220118_152036.md]
 Esta imagen borroneada es la foto que me paso la UIT Sur y se ve en la Prueba 4.3.9
 
 4.3.11.
